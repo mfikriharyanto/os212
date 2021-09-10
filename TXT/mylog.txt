@@ -10,5 +10,7 @@ ZCZC W00 120 L06 References/Books/Documents/GSGS related
 ZCZC W01  15 L11 Assignment #01: VirtualBox Guest Preparation
 ZCZC W01  45 L12 Assignment #02: Install a Debian Guest from scratch
 ZCZC W01  45 L13 Assignment #03: Linux and Vim basics commands
+ZCZC W01 100 L13 Assignment #03: REGEX, BASH, SED, AWK, and other
 ZCZC W01  30 L14 Assignment #04: Dress Up My Virtual Guest
 ZCZC W01  15 L15 Assignment #05: SSH Keys and Git Cloning
+ZCZC W01   5 L17 Assignment #07: Update mylog.txt
