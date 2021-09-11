@@ -1,4 +1,4 @@
-|[Home](.) | [Log](TXT/mylog.txt) | [Links](/LINKS/) | [Github](https://github.com/mfikriharyanto/os212/)|
+|[Home](.) | [Log](TXT/mylog.txt) | [Links](LINKS/) | [Github](https://github.com/mfikriharyanto/os212/)|
 
 # Muhammad Fikri Haryanto's OS212 Repository
 
