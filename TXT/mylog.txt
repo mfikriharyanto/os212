@@ -16,3 +16,4 @@ ZCZC W01  15 L15 Assignment #05: SSH Keys and Git Cloning
 ZCZC W01  30 L16 Assignment #06: Dress Up My Github Page
 ZCZC W01   5 L17 Assignment #07: Update mylog.txt
 ZCZC W01 100 L18 Assignment #08: More Awk, Bash, Regex, Sed
+ZCZC W01  60 L19 Assignment #09: Read OSC10 Chapter 1, 2, and 18
