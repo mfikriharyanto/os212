@@ -18,7 +18,7 @@ Apa itu grep, sed, dan awk? Grep, Sed, dan Awk merupakan alat yang sangat bergun
 4. [System Security](https://www.geeksforgeeks.org/system-security/)<br>
 Referensi tambahan yang berisi ulasan singkat tentang _system security_. Menurut saya ulasan tersebut cukup membantu untuk review beberapa hal seperti beberapa jenis _program threats_ dan _system threats_.
 
-5. [MD5 vs SHA-1 vs SHA-2 - Which is the Most Secure Encryption Hash and How to Check Them](https://www.freecodecamp.org/news/md5-vs-sha-1-vs-sha-2-which-is-the-most-secure-encryption-hash-and-how-to-check-them/)<br>
+5. [MD5 vs SHA-1 vs SHA-2](https://www.freecodecamp.org/news/md5-vs-sha-1-vs-sha-2-which-is-the-most-secure-encryption-hash-and-how-to-check-them/)<br>
 Halaman web tersebut dapat membantu kita memahami konsep _hash function_ seperti MD5, SHA-1, dan SHA-2. Penjelasan tentang perbedaan di antaranya menurut saya cukup mudah dipahami. Namun, kita perlu mencari beberapa referensi lain untuk penjelasan yang lebih lengkap.
 
 6. [The C Beginner's Handbook](https://www.freecodecamp.org/news/the-c-beginners-handbook/)<br>
