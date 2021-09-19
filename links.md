@@ -3,8 +3,8 @@ permalink: /LINKS/
 ---
 |[Home](/os212/) | [Log](TXT/mylog.txt) | [Links](.) | [Github](https://github.com/mfikriharyanto/os212/)|
 
-# Links
-Di bawah ini beberapa tautan menarik yang menurut saya dapat membantu dalam perkuliahan Sistem Operasi (OS212).
+# My Bookmark Links
+Di bawah ini beberapa tautan menarik yang membantu saya dalam perkuliahan Sistem Operasi (OS212). Semoga beberapa tautan tersebut juga dapat membantu teman-teman sekalian :)
 
 1. [Introduction of Operating System](https://www.geeksforgeeks.org/introduction-of-operating-system-set-1/)<br>
 Halaman web tersebut berisi beberapa perkenalan terkait sistem operasi. Hal ini cukup membantu saya saat awal perkuliahan. Salah satunya adalah memperjelas pemahaman saya tentang beberapa istilah dan definisi yang sebelumnya kurang saya pahami.
@@ -13,7 +13,7 @@ Halaman web tersebut berisi beberapa perkenalan terkait sistem operasi. Hal ini 
 Pengetahuan tentang bash programming tentu penting dimiliki. Halaman website tersebut cukup menarik bagi saya karena memberikan contoh bash scripts yang cukup membantu memperjelas pemahaman tentang bash programming.
 
 3. [Difference between Grep, Sed, and Awk](https://www.baeldung.com/linux/grep-sed-awk-differences)<br>
-Apa itu grep, sed, dan awk? Grep, Sed, dan Awk merupakan alat yang sangat berguna untuk melakukan _text processing_ di Linux. Setelah membaca dan mencoba mempraktikannya, saya belum mendapatkan pemahaman tentang perbedaan yang jelas di antara ketiganya. Website tersebut cukup menjawab kebingunan saya. Secara singkat grep hanya optimal untuk _pattern searching_, sed melengkapinya dengan fitur _text editing_, dan awk memiliki lebih banyak fitur yang tidak dimiliki keduanya.
+Apa itu grep, sed, dan awk? Grep, Sed, dan Awk merupakan alat yang sangat berguna untuk melakukan _text processing_ di Linux. Setelah membaca dan mencoba mempraktikannya, saya belum mendapatkan pemahaman tentang perbedaan yang jelas di antara ketiganya. Halaman website tersebut cukup menjawab kebingunan saya. Secara singkat grep hanya optimal untuk _pattern searching_, sed melengkapinya dengan fitur _text editing_, dan awk memiliki lebih banyak fitur yang tidak dimiliki keduanya.
 
 4. [System Security](https://www.geeksforgeeks.org/system-security/)<br>
 Referensi tambahan yang berisi ulasan singkat tentang _system security_. Menurut saya ulasan tersebut cukup membantu untuk review beberapa hal seperti beberapa jenis _program threats_ dan _system threats_.
