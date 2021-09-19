@@ -32,3 +32,5 @@ ZCZC W02  15 L19 Assignment #09: Update my bookmark links
 ZCZC W02  20 L20 Assignment #10: Review my peer links
 ZCZC W02   5 L09 Assignment #11: Copy a simple “myscript.sh” script
 ZCZC W02   5 L09 Assignment #12: Update mylog.txt
+ZCZC W02  10 L09 Assignment #13: Generate SHA256SUM and SHA256SUM.asc
+ZCZC W02  30 L05 Quiz related
