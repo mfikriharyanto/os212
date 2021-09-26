@@ -23,3 +23,12 @@ Halaman web tersebut dapat membantu kita memahami konsep _hash function_ seperti
 
 6. [The C Beginner's Handbook](https://www.freecodecamp.org/news/the-c-beginners-handbook/)<br>
 Bingung mencari referensi untuk belajar bahasa pemrograman C? Tautan tersebut mungkin salah satu referensi yang dapat dipilih. Tidak semua topik tentang bahasa pemrograman C dibahas tetapi hanya dasar-dasar yang cukup penting saja.
+
+7. [FAT32 vs ExFAT vs NTFS](https://www.cbtnuggets.com/blog/technology/system-admin/fat32-vs-exfat-vs-ntfs-file-system-formatting-explained)<br>
+Saya suka beberapa referensi yang berisi penjelasan beberapa hal dengan pendekatan perbandingan di antaranya sehingga tautan tersebut cukup membantu saya dalam memahami perbedaan di antara FAT32, ExFAT, dan NTFS. Baik FAT32, ExFAT, maupun NTFS bukan sesuatu yang asing di telinga kita 'kan?
+
+8. [What is Linux File System?](https://likegeeks.com/linux-file-system/)<br>
+Tautan tersebut berisi referensi tambahan tentang Linux file system. Menurut saya tautan tersebut cukup menarik karena terdapat penjelasan singkat tentang Linux file system directories dan beberapa jenis Linux file system seperti Ext, Ext2, Ext3, Ext4, JFS, dan lain-lain.
+
+9. [The Linux Filesystem Explained](https://www.linux.com/training-tutorials/linux-filesystem-explained/)<br>
+Tautan tersebut kurang lebih sama dengan tautan sebelumnya, tetapi memiliki beberapa tambahan salah satunya adalah ilustrasi atau gambar yang mungkin lebih dapat membantu.
