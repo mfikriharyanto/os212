@@ -37,11 +37,21 @@ ZCZC W02  30 L05 Quiz related
 ZCZC W03 150 L02 Zoom related
 ZCZC W03  90 L11 Assignment #01: Read OSC10 Chapter 13, 14, and 15
 ZCZC W03  45 L12 Assignment #02: Try Demos
-ZCZC W03  45 L13 Assignment #03: Try previoud midterm problems
+ZCZC W03  45 L13 Assignment #03: Try previous midterm problems
 ZCZC W03   5 L14 Assignment #04: Check my ".bash_aliases"
 ZCZC W03  45 L15 Assignment #05: Create an extra virtual disk
 ZCZC W03  30 L01 SCeLe/Discord related
 ZCZC W03  15 L16 Assignment #06: Update my bookmark links
 ZCZC W03  15 L17 Assignment #07: Review my peer links
 ZCZC W03   5 L18 Assignment #08: Update mylog.txt
-ZCZC W03   5 L19 Assignment #09: Submit My Week 03 Assignment
+ZCZC W03   5 L19 Assignment #09: Submit my week 03 assignment
+ZCZC W04  80 L02 Zoom related
+ZCZC W04  90 L11 Assignment #01: Read OSC10 Chapter 9
+ZCZC W04  45 L12 Assignment #02: Try Demos
+ZCZC W04  45 L13 Assignment #03: Try previous midterm problems
+ZCZC W04  10 L14 Assignment #04: Install Package List 2 (TLPI)
+ZCZC W04  15 L15 Assignment #05: Fetch and extract "WEEK04.tar.bz2.asc"
+ZCZC W04  15 L16 Assignment #06: Update my bookmark links
+ZCZC W04  15 L17 Assignment #07: Review my peer links
+ZCZC W04   5 L18 Assignment #08: Update mylog.txt
+ZCZC W04   5 L19 Assignment #09: Submit my week 04 assignment
