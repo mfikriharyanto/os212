@@ -1,7 +1,7 @@
 ---
 permalink: /LINKS/
 ---
-|[Home](/os212/) | [Log](TXT/mylog.txt) | [Links](.) | [Tips](TIPS/) | [Github](https://github.com/mfikriharyanto/os212/) |
+|[Home](/os212/) | [Log](TXT/mylog.txt) | [Links](.) | [Tips](../TIPS/) | [Github](https://github.com/mfikriharyanto/os212/) |
 
 # My Bookmark Links
 Di bawah ini beberapa tautan menarik yang membantu saya dalam perkuliahan Sistem Operasi (OS212). Semoga beberapa tautan tersebut juga dapat membantu teman-teman sekalian :)
