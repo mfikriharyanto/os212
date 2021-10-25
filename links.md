@@ -58,3 +58,14 @@ Halaman website tersebut berisi beberapa contoh top command yang disertai penjel
 
 3. [Top Customization](https://pascalth.medium.com/top-customized-170653201ddd)<br>
 Beberapa referensi lain untuk mengeksplorasi table of processes.
+
+### Week 06
+
+1. [Process ID, Create a Process, and Execute a Program](https://calvinkam.github.io/csci3150-process/)<br>
+Referensi tambahan terkait process, fork, exec, wait, dan lain-lain. Penjelasan tidak bertele-tele sehingga cukup mempermudah untuk memahaminya.
+
+2. [Threads vs Process](https://www.backblaze.com/blog/whats-the-diff-programs-processes-and-threads/)<br>
+Referensi tambahan untuk memahami threads dan process serta perbedaan keduanya.
+
+3. [Concurrency and Parallelism](https://luminousmen.com/post/concurrency-and-parallelism-are-different)<br>
+Referensi tambahan terkait konsep _concurrency_ dan _parallelism_ yang cukup jelas dan disertai ilustrasi sebagai pendukung.

@@ -13,3 +13,9 @@ Usahakan memahami setiap tugas setiap minggu, tentu banyak hal yang dapat kita p
 
 **3. Sesi sinkronus**<br>
 Banyak hal yang dapat kita peroleh dalam sesi sinkronus. Oleh karena itu, usahakan selalu mengikuti sesi sinkronus.
+
+**4. Up to date**<br>
+Usahakan untuk cek SCeLE, Discord atau media komunikasi yang lain agar tidak ketinggalan informasi terbaru. Ya, mungkin saja nama kalian tercantum dalam pengumuman.
+
+**5. Cek penilaian setiap minggu**<br>
+Usahakan untuk mengecek nilai yang kalian dapatkan setiap minggu. Hal ini cukup membantu agar kesalahan yang sama tidak terulang kembali dan dapat memperbaikinya di minggu-minggu selanjutnya.
