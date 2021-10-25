@@ -66,3 +66,13 @@ ZCZC W05  15 L16 Assignment #06: Add suggestions or tips
 ZCZC W05  15 L17 Assignment #07: Review my peer links
 ZCZC W05   5 L18 Assignment #08: Update mylog.txt
 ZCZC W05   5 L19 Assignment #09: Submit my week 05 assignment
+ZCZC W06 100 L02 Zoom related
+ZCZC W06  90 L11 Assignment #01: Read OSC10 Chapter 3 and 4
+ZCZC W06  30 L12 Assignment #02: Try Demos
+ZCZC W06  45 L13 Assignment #03: Try previous midterm problems
+ZCZC W06  30 L14 Assignment #04: Fork() and shared memory
+ZCZC W06  20 L15 Assignment #05: Update my bookmark links
+ZCZC W06   5 L16 Assignment #06: Add suggestions or tips
+ZCZC W06  10 L17 Assignment #07: Review my peer links
+ZCZC W06   5 L18 Assignment #08: Update mylog.txt
+ZCZC W06   5 L19 Assignment #09: Submit my week 06 assignment
