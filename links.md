@@ -72,7 +72,7 @@ Referensi tambahan terkait konsep _concurrency_ dan _parallelism_ yang cukup jel
 
 ### Week 07
 1. [Deadlock, Livelock and Starvation](https://www.baeldung.com/cs/deadlock-livelock-starvation)<br>
-Penjelasan tambahan terkait perbedaan antara perbedaan dan hubungan antara Deadlock, Livelock, dan Starvation.
+Penjelasan tambahan terkait perbedaan dan hubungan antara Deadlock, Livelock, dan Starvation.
 
 2. [Semaphore vs Mutex](https://www.baeldung.com/cs/semaphore-vs-mutex)<br>
 Semaphore dan mutex adalah mekanisme yang dapat diterapkan dalam sinkronisasi. Artikel tersebut dapat membantu untuk memahami perbandingan di antara keduanya.
