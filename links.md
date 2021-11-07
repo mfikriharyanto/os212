@@ -69,3 +69,13 @@ Referensi tambahan untuk memahami threads dan process serta perbedaan keduanya.
 
 3. [Concurrency and Parallelism](https://luminousmen.com/post/concurrency-and-parallelism-are-different)<br>
 Referensi tambahan terkait konsep _concurrency_ dan _parallelism_ yang cukup jelas dan disertai ilustrasi sebagai pendukung.
+
+### Week 07
+1. [Deadlock, Livelock and Starvation](https://www.baeldung.com/cs/deadlock-livelock-starvation)<br>
+Penjelasan tambahan terkait perbedaan antara perbedaan dan hubungan antara Deadlock, Livelock, dan Starvation.
+
+2. [Semaphore vs Mutex](https://www.baeldung.com/cs/semaphore-vs-mutex)<br>
+Semaphore dan mutex adalah mekanisme yang dapat diterapkan dalam sinkronisasi. Artikel tersebut dapat membantu untuk memahami perbandingan di antara keduanya.
+
+3. [Dining Philosophers Problem](https://www.youtube.com/watch?v=NbwbQQB7xNQ)<br>
+Masih bingung dengan konsep Dining Philosophers Problem? Menurut saya, video tersebut merupakan salah satu penjelasan yang sangat bagus untuk memahaminya. Penjelasan yang jelas, tidak bertele-tele, serta adanya ilustrasi yang menarik merupakan beberapa keunggulan dari video tersebut.
