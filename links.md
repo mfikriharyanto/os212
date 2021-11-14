@@ -79,3 +79,10 @@ Semaphore dan mutex adalah mekanisme yang dapat diterapkan dalam sinkronisasi. A
 
 3. [Dining Philosophers Problem](https://www.youtube.com/watch?v=NbwbQQB7xNQ)<br>
 Masih bingung dengan konsep Dining Philosophers Problem? Menurut saya, video tersebut merupakan salah satu penjelasan yang sangat bagus untuk memahaminya. Penjelasan yang jelas, tidak bertele-tele, serta adanya ilustrasi yang menarik merupakan beberapa keunggulan dari video tersebut.
+
+### Week 08
+1. [Comparison of Scheduling Algorithms](https://www.studytonight.com/operating-system/comparision-scheduling-algorithms)<br>
+Referensi tambahan untuk memahami tentang kelebihan dan kekurangan dari beberapa _scheduling algorithms_ yang ada.
+
+2. [Dispatcher vs Scheduler](https://www.youtube.com/watch?v=SydpWAOzmuE)<br>
+Penjelasan berbentuk video terkait dispatcher dan scheduler. Menurut saya, penjelasan dalam video tersebut cukup menarik karena menggunakan ilustrasi yang tentu cukup membantu memahaminya.
